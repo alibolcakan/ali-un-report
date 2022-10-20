@@ -3,3 +3,5 @@
 We plotted life expectancy over time.
 We learned how to use the UNIX shell.
 We created a new Git repo.
+
+Authors: Ali & Kelly
